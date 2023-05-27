@@ -1,6 +1,7 @@
 # MiniUSB-Host-Shield
-# Nicolás Amaro Muñoz Read
-# Instituto de Innovación y Tecnologia Aplicada
+
+Nicolás Amaro Muñoz Read
+Instituto de Innovación y Tecnologia Aplicada
 
 RESUMEN:
 
